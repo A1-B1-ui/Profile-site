@@ -13,7 +13,8 @@ You can find me on these platforms:
 
 ## **What's Inside**
 This repository may include
-1.A dynamic GitHub profile README (like this one!)
+1.A dynamic GitHub profile README  
+
 2.Links to my social platforms
 3.Info about my tech stack and experience
 4.Projects I’m proud of
