@@ -15,6 +15,9 @@ You can find me on these platforms:
 
 🧑‍💻 GitHub
 
+## **Live demo
+
+https://mafia-portfolio.netlify.app/
 ## **What's Inside**
 This repository may include
 
