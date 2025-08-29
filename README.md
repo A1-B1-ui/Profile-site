@@ -7,16 +7,21 @@ Hi there! 👋 I'm Mafia Bibi , and welcome to my social profile repository. Thi
 ## **Connect With Me**
 You can find me on these platforms:
 🌐 Website/GitHub
+
 💼 LinkedIn
+
 🐦 Twitter
+
 🧑‍💻 GitHub
 
 ## **What's Inside**
 This repository may include
 1.A dynamic GitHub profile README  
 
-2.Links to my social platforms
+2.Links to my social platforms  
+
 3.Info about my tech stack and experience
+
 4.Projects I’m proud of
 
 ## **Thank You❤**
